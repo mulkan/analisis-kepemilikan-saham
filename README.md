@@ -1,0 +1,6 @@
+# analisis-kepemilikan-saham
+Bagi pencinta trading saham, tentu tidak asing lagi dengan emiten BUMI. Sesuai dengan julukannya sebagai saham sejuta umat karena kepemilikan saham oleh ritel sangat banyak dan jumlah lembar saham sampai ratusan milyaran. Melihat Pergerakan Kepemilikan Efek/Saham bisa kita terapkan pada emiten BUMI melihat efek Corporation Action OWK-Obligasi Wajib Konversi untuk membayar hutang perusahaan dengan membayar kreditur berupa saham alih-alih uang tunai.
+
+Melihat Pergerakan Kepemilikan Efek/Saham bisa dilihat dari saham yang dipegang oleh public. Sesuai data dari KSEI ada 9 jenis investor mulai dari investor individual sampai dengan pensiun fund. Untuk melihat harga teoritis saham sangat gampang yaitu dengan cara membagi ekuitas perusahaan dibagi saham yang diterbitkan. Nanti akan ketemu book value dari perusahaan dengan membandingkan harga saham saat ini dibagi dengan harga teoritis saham. Rata-rata book value nya ada yang 2 kali bahkan ada yang 28,62 kali seperti emiten UNVR (ini terlalu mahal alias over value). Bandingkan dengan saham Bank yang rata2 hanya berada di 2 - 4 kali saja book value nya.
+
+lebih lanjut ke https://softscients.com/2022/07/15/melihat-pergerakan-kepemilikan-efek-saham/
